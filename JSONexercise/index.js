@@ -72,4 +72,4 @@ var numArr = JSON.parse(text)
 });
 
 // prints an array of numbers
-// Sum all values in the array.
+// Sum all values in the array - sum is 92588
